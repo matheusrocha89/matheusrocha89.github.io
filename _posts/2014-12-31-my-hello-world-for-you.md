@@ -1,11 +1,9 @@
 ---
 layout: post
 title: "My Hello World for you"
-description: ""
-category:
+category: presentation
 tags: [presentation]
 ---
-{% include JB/setup %}
 
 Hello World! My name is Matheus and I am a developer, love code, love to see the user
 happy when it is using something that I created, that's me, that's who I am.
