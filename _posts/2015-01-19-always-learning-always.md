@@ -5,7 +5,7 @@ category: Hybrid Mobile Development
 tags: [mobile, tips]
 ---
 
-There is been a while that I am always reading and studying and play a little while with Ionic Framework.
+It's is been a while that I am always reading and studying and play a little while with Ionic Framework.
 But these days I tried to create a small and simple app faster as I can, and I discover that just the study is not enough,
 you need to put your hands deep on the code to learn what we call here in Brazil "cat's jump" (The little tricks) about the
 tool you are using. Here I will discribe small things you need to practice to learn faster these tricks.
